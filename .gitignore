@@ -1,0 +1,13 @@
+# Ignorer les fichiers CSV
+*.csv
+
+# Ignorer les notebooks temporaires
+*.ipynb_checkpoints/
+
+# Ignorer les fichiers temporaires de Python
+__pycache__/
+*.pyc
+
+# Ignorer les fichiers système Windows
+Thumbs.db
+Desktop.ini
